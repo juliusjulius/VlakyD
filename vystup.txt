@@ -1,0 +1,8 @@
+Banska-Bystrica: 1
+Bratislava: 2
+Kosice: 1
+Poprad: 1
+Povazska-Bystrica: 1
+Trencin: 1
+Trnava: 2
+Zilina: 2

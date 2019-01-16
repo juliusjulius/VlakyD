@@ -1,0 +1,11 @@
+106 Zilina 10:10
+106 Povazska-Bystrica 11:00
+106 Trencin 12:00
+106 Trnava 12:30
+106 Bratislava 13:00
+540 Bratislava 8:00
+540 Trnava 8:30
+540 Zilina 11:20
+540 Banska-Bystrica 12:00
+540 Poprad 14:00
+540 Kosice 15:00
